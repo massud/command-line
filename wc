@@ -1,0 +1,3 @@
+wc (short for word count) is a command in Unix-like operating systems.
+
+The program reads either standard input or a list of files and generates one or more of the following statistics: newline count, word count, and byte count
